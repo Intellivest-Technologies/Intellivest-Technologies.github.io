@@ -1,2 +1,5 @@
 
 .DS_Store
+*.xcworkspacedata
+intellivest.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+intellivest.xcworkspace/xcuserdata/joshstovall.xcuserdatad/UserInterfaceState.xcuserstate
