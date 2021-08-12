@@ -723,12 +723,15 @@ img {
   background-color: var(--social-color-2) !important;
 }
 
-.social-icons > a.google-plus {
+.social-icons > a.youtube{
   background-color: var(--social-color-3) !important;
 }
 
-.social-icons > a.vine {
-  background-color: var(--social-color-4) !important;
+.social-icons > a.linkedin {
+  background-color:#2867B2 !important;
+}
+.social-icons > a.github {
+  background-color: #211F1F !important;
 }
 
 /*BACKGROUND IMAGES*/
